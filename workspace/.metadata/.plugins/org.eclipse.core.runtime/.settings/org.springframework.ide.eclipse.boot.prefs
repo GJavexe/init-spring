@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=init-spring
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.7.3
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=my first app 
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=ec.edu.itsqmet.int.spring
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=17
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=init-spring
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=ec.edu.itsqmet.int.spring
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=war
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=GRADLE
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=1.0.0-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n
